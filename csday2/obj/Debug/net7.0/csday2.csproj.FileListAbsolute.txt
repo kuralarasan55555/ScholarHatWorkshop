@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.AssemblyInfo.cs
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\code\csday2\bin\Debug\net7.0\csday2.exe
+C:\Users\hp\Desktop\code\csday2\bin\Debug\net7.0\csday2.deps.json
+C:\Users\hp\Desktop\code\csday2\bin\Debug\net7.0\csday2.runtimeconfig.json
+C:\Users\hp\Desktop\code\csday2\bin\Debug\net7.0\csday2.dll
+C:\Users\hp\Desktop\code\csday2\bin\Debug\net7.0\csday2.pdb
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.dll
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\refint\csday2.dll
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.pdb
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\csday2.genruntimeconfig.cache
+C:\Users\hp\Desktop\code\csday2\obj\Debug\net7.0\ref\csday2.dll
